@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.jpa;
+package net.elpuig.Practica7b.m7.jpa;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

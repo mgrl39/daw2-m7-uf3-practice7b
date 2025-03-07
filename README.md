@@ -149,6 +149,6 @@ SELECT a FROM Alumnos a  // ❌ Error: "Alumnos" no existe como entidad
 ## 📌 3. Compilar nuevo Jasper
 Cambia la ruta a la que necesites. También hace falta modificación del código dentro de la clase.
 ```java
-cd /home/usuario/eclipse-workspace/Practica7a && mvn compile exec:java -Dexec.mainClass="net.elpuig.Practica7a.m7.util.JasperCompiler"
+cd /home/usuario/eclipse-workspace/Practica7b && mvn compile exec:java -Dexec.mainClass="net.elpuig.Practica7b.m7.util.JasperCompiler"
 ```
 

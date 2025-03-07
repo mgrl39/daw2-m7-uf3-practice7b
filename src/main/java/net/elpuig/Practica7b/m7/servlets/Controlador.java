@@ -1,8 +1,8 @@
-package net.elpuig.Practica7a.m7.servlets;
+package net.elpuig.Practica7b.m7.servlets;
 
-import net.elpuig.Practica7a.m7.enums.Protocol;
-import net.elpuig.Practica7a.m7.beans.Alumno;
-import net.elpuig.Practica7a.m7.beans.Usuario;
+import net.elpuig.Practica7b.m7.enums.Protocol;
+import net.elpuig.Practica7b.m7.beans.Alumno;
+import net.elpuig.Practica7b.m7.beans.Usuario;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

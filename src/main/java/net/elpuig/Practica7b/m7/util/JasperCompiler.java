@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.util;
+package net.elpuig.Practica7b.m7.util;
 
 import net.sf.jasperreports.engine.JasperCompileManager;
 

@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.beans;
+package net.elpuig.Practica7b.m7.beans;
 
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.http.HttpSessionBindingEvent;

@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.servlets;
+package net.elpuig.Practica7b.m7.servlets;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-import net.elpuig.Practica7a.m7.beans.Alumno;
+import net.elpuig.Practica7b.m7.beans.Alumno;
 import net.sf.jasperreports.engine.JRException;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
