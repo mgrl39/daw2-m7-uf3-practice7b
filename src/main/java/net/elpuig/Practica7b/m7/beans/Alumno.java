@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.beans;
+package net.elpuig.Practica7b.m7.beans;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -6,7 +6,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import jakarta.persistence.TypedQuery;
-import net.elpuig.Practica7a.m7.jpa.JPAUtil;
+import net.elpuig.Practica7b.m7.jpa.JPAUtil;
 
 import java.util.ArrayList;
 import java.util.HashMap;

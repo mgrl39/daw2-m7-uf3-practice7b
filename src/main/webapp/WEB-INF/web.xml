@@ -5,13 +5,13 @@
 	xmlns:xml="http://www.w3.org/XML/1998/namespace"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
-	<display-name>Practica7a - Archetype Created Web Application</display-name>
+	<display-name>Practica7b - Archetype Created Web Application</display-name>
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
 	<servlet>
 		<servlet-name>Servlet</servlet-name>
-		<servlet-class>net.elpuig.Practica7a.m7.servlets.Controlador</servlet-class>
+		<servlet-class>net.elpuig.Practica7b.m7.servlets.Controlador</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Servlet</servlet-name>
@@ -19,7 +19,7 @@
 	</servlet-mapping>
 	<servlet>
 		<servlet-name>Report</servlet-name>
-		<servlet-class>net.elpuig.Practica7a.m7.servlets.Report</servlet-class>
+		<servlet-class>net.elpuig.Practica7b.m7.servlets.Report</servlet-class>
 		<async-supported>true</async-supported>
 	</servlet>
 	<servlet-mapping>
@@ -35,7 +35,7 @@
 		<url-pattern>/image</url-pattern>
 	</servlet-mapping>
 	<listener>
-		<listener-class>net.elpuig.Practica7a.m7.webses.WebSessionListener</listener-class>
+		<listener-class>net.elpuig.Practica7b.m7.webses.WebSessionListener</listener-class>
 	</listener>
 	<session-config>
 		<session-timeout>15</session-timeout>

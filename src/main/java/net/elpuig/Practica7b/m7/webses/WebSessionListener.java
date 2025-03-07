@@ -1,4 +1,4 @@
-package net.elpuig.Practica7a.m7.webses;
+package net.elpuig.Practica7b.m7.webses;
 
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.http.HttpSessionEvent;
